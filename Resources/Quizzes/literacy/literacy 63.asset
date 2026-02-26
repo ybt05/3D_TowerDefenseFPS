@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c574d7904da9224da07124f6db1d7f7, type: 3}
+  m_Name: literacy 63
+  m_EditorClassIdentifier: Assembly-CSharp::QuizData
+  genre: literacy
+  question: "\u30D7\u30ED\u30B0\u30E9\u30E0\u30D5\u30A1\u30A4\u30EB\u306B\u611F\u67D3\u3057\u3001\u30D7\u30ED\u30B0\u30E9\u30E0\u306E\u8D77\u52D5\u3067\u60AA\u610F\u3042\u308B\u52D5\u4F5C\u3092\u3059\u308B\u306E\u306F\u3069\u308C\u304B "
+  questionImage: {fileID: 0}
+  correctAnswer: "\u30A6\u30A4\u30EB\u30B9 "
+  wrongAnswers:
+  - "\u30B9\u30D1\u30A4\u30A6\u30A7\u30A2 "
+  - "\u30EF\u30FC\u30E0 "
+  - "\u30C8\u30ED\u30A4\u306E\u6728\u99AC "
+  explanation: "\u30DE\u30EB\u30A6\u30A7\u30A2\u306E\u4E00\u7A2E\u3067\u3001\u30D7\u30ED\u30B0\u30E9\u30E0\u30D5\u30A1\u30A4\u30EB\u306B\u611F\u67D3\u3057\u3001\u30D7\u30ED\u30B0\u30E9\u30E0\u306E\u8D77\u52D5\u3067\u60AA\u610F\u3042\u308B\u52D5\u4F5C\u3092\u3059\u308B\u306E\u306F\u30A6\u30A4\u30EB\u30B9\u3067\u3042\u308B "
+  explanationImage: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c574d7904da9224da07124f6db1d7f7, type: 3}
+  m_Name: literacy 19
+  m_EditorClassIdentifier: Assembly-CSharp::QuizData
+  genre: literacy
+  question: "\u300C\u5F93\u696D\u54E1\u304C\u8AA4\u3063\u3066\u30A6\u30A4\u30EB\u30B9\u4ED8\u304D\u306E\u30D5\u30A1\u30A4\u30EB\u3092\u958B\u3044\u305F\u304C\u3001\u30B7\u30B9\u30C6\u30E0\u304C\u81EA\u52D5\u7684\u306B\u9694\u96E2\u30FB\u524A\u9664\u3057\u305F\u3002\u300D\u3053\u306E\u3088\u3046\u306A\u5BFE\u5FDC\u306B\u6700\u3082\u95A2\u4FC2\u3059\u308B\u6280\u8853\u306F\u3069\u308C\u304B "
+  questionImage: {fileID: 0}
+  correctAnswer: "\u30A2\u30F3\u30C1\u30A6\u30A4\u30EB\u30B9\u30BD\u30D5\u30C8 "
+  wrongAnswers:
+  - "\u30A2\u30AF\u30BB\u30B9\u5236\u5FA1 "
+  - "\u30D0\u30C3\u30AF\u30A2\u30C3\u30D7 "
+  - "\u30D5\u30A1\u30A4\u30A2\u30A6\u30A9\u30FC\u30EB "
+  explanation: "\u30A2\u30F3\u30C1\u30A6\u30A4\u30EB\u30B9\u30BD\u30D5\u30C8\u306F\u65E2\u77E5\u306E\u30DE\u30EB\u30A6\u30A7\u30A2\u3092\u691C\u77E5\u30FB\u9664\u53BB\u3059\u308B\u57FA\u672C\u7684\u306A\u9632\u5FA1\u624B\u6BB5\u3067\u3042\u308A\u3001Windows
+    Defender\u306A\u3069\u304C\u3042\u308B "
+  explanationImage: {fileID: 0}
