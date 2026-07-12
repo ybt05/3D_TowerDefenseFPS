@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c574d7904da9224da07124f6db1d7f7, type: 3}
+  m_Name: literacy 56
+  m_EditorClassIdentifier: Assembly-CSharp::QuizData
+  genre: literacy
+  question: "\u5229\u7528\u8005\u306E\u5165\u529B\u60C5\u5831\u3092\u8868\u793A\u3059\u308BWeb\u30B5\u30A4\u30C8\u306B\u5BFE\u3057\u3066\u60AA\u610F\u306E\u3042\u308B\u30B9\u30AF\u30EA\u30D7\u30C8\u3092\u9001\u308A\u95B2\u89A7\u8005\u306B\u5B9F\u884C\u3055\u305B\u308B\u653B\u6483\u306F\u3069\u308C\u304B "
+  questionImage: {fileID: 0}
+  correctAnswer: "XSS(\u30AF\u30ED\u30B9\u30B5\u30A4\u30C8\u30B9\u30AF\u30EA\u30D7\u30C6\u30A3\u30F3\u30B0) "
+  wrongAnswers:
+  - "SQL\u30A4\u30F3\u30B8\u30A7\u30AF\u30B7\u30E7\u30F3 "
+  - "OS\u30B3\u30DE\u30F3\u30C9\u30A4\u30F3\u30B8\u30A7\u30AF\u30B7\u30E7\u30F3 "
+  - "CSRF(\u30AF\u30ED\u30B9\u30B5\u30A4\u30C8\u30EA\u30AF\u30A8\u30B9\u30C8\u30D5\u30A9\u30FC\u30B8\u30A7\u30EA) "
+  explanation: "\u5229\u7528\u8005\u306E\u5165\u529B\u60C5\u5831\u3092\u8868\u793A\u3059\u308BWeb\u30B5\u30A4\u30C8\u306B\u5BFE\u3057\u3066\u60AA\u610F\u306E\u3042\u308B\u30B9\u30AF\u30EA\u30D7\u30C8\u3092\u9001\u308A\u95B2\u89A7\u8005\u306B\u5B9F\u884C\u3055\u305B\u308B\u653B\u6483\u306FXSS(\u30AF\u30ED\u30B9\u30B5\u30A4\u30C8\u30B9\u30AF\u30EA\u30D7\u30C6\u30A3\u30F3\u30B0)\u3067\u3042\u308B "
+  explanationImage: {fileID: 0}
