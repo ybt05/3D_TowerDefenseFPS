@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 140365f384e1308428f54e213557210e, type: 3}
+  m_Name: AudioClips
+  m_EditorClassIdentifier: Assembly-CSharp::AudioClips
+  shootSound: {fileID: 8300000, guid: f54ea64305fe46f4cae57debebf422c1, type: 3}
+  eatSound: {fileID: 8300000, guid: 72d79a45a4465964b97563827f1b0c32, type: 3}
+  playerDamagedSound: {fileID: 8300000, guid: 05b9016239f40bc41bbb2a56eebbc3be, type: 3}
+  playerDeathSound: {fileID: 8300000, guid: b75540f45ed4fde42a54d8ea5ad89f0b, type: 3}
+  towerDamagedSound: {fileID: 8300000, guid: 51317f82a4b4cc041a7fdeb04a7a6fc7, type: 3}
+  towerDestroySound: {fileID: 8300000, guid: 7fd5029be363c33448af70e2574d926c, type: 3}
+  towerAttackSound: {fileID: 8300000, guid: 14846a3819596064dad5ddc5817c1a52, type: 3}
+  decisionSound: {fileID: 8300000, guid: 27a45e50a369b284f8f8054647ec48f8, type: 3}
+  cancelSound: {fileID: 8300000, guid: 8c21177d9997668478e014a0b78cd36d, type: 3}
+  changeWeaponSound: {fileID: 8300000, guid: 75e78b7e9fbecc44bb4b8f64985458d6, type: 3}
+  levelUpSound: {fileID: 8300000, guid: d95f607c33becb94c93a05ef1c3a14f7, type: 3}
+  enemyDamagedSound: {fileID: 8300000, guid: 18d4ce88111e03848ac9baf1f45e73c2, type: 3}
+  enemyDeathSound: {fileID: 8300000, guid: e699c055294f9ed4da7f6953a629d524, type: 3}
+  enemyFireSound: {fileID: 8300000, guid: 8e847cde8985d6044bb459c7b26ec4bc, type: 3}
+  startSound: {fileID: 8300000, guid: fe4830425a952824fa68059b574637f1, type: 3}
+  endSound: {fileID: 8300000, guid: ce71048af47c036439469fc78cca5df9, type: 3}
+  bgmSound: {fileID: 8300000, guid: 1f7a024432254b04c992ab7fe1b5535c, type: 3}
